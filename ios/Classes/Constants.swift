@@ -1,6 +1,4 @@
 import Mapbox
-import MapboxAnnotationExtension
-
 /*
  * The mapping is based on the values defined here:
  *  https://docs.mapbox.com/android/api/map-sdk/8.4.0/constant-values.html
